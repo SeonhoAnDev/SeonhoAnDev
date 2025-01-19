@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My name is Seonho AN. </li>Currently, I work as a system engineer, handling a variety of tasks. </li>My goal is to create systems that positively impact a larger audience. </li></li>Feel free to connect with me and explore my projects!</li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My name is Seonho AN. <br></li>Currently, I work as a system engineer, handling a variety of tasks. <br></li>My goal is to create systems that positively impact a larger audience. <br></li></li>Feel free to connect with me and explore my projects!</li></li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
